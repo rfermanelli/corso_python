@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/corso_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cython_in_python/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cython_in_python/sqrt.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cython_in_python/sqrt.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cython_in_python/sqrt_in_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dao_news/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dao_news/dao_news_db_configuration_file/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dao_news/dao_news_db_configuration_file/dao_news_db_configuration_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dao_news/dao_news_db_connection/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dao_news/dao_news_db_connection/dao_news_db_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_file/il_metodo_close.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_file/il_metodo_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_file/la_funzione_open.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/import_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/import_from.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/import_from_as.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/import_from_star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/la_funzione_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/la_funzione_reload_di_importlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/la_variabile_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/la_variabile_privata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/math_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/package_1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/package_1/modulo_1_package_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/package_1/package_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/package_1/package_2/modulo_2_package_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/package_1/package_2/package_3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/package_1/package_2/package_3/modulo_3_package_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/bitwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/flashing_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/i_metodi_isalnum_islpha_isdigit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/i_metodi_startwith_endwith.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/i_tipi_int_float_complex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_dizionario_builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_dizionario_enclosing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_dizionario_globals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_dizionario_locals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_find.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_maketrans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_partition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_strip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_translate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_tipo_bool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_tipo_decimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_tipo_fraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_tipo_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/la_funzione_abs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/la_funzione_isclose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/la_funzione_round.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/le_f_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/le_funzioni_bin_oct_hex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/le_raw_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/assert_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/for_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/for_statement_asincrona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/for_statement_come_while_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/if_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/la_funzione_enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/la_funzione_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/la_funzione_zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/try_except_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/while_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_asincrone/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_generative_yield/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_generative_yield/il_generatore_yield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_chiave_di_una_funzione_di_ordinamento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_con_parametri_multipli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_in_list_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_in_list_comprehension_condizionata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_sottofunzione_della_funzione_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_sottofunzione_della_funzione_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_ricorsive/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_ricorsive/il_fattoriale_ricorsivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_strutture_dati/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_strutture_dati/deep_nesting_di_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_strutture_dati/la_dichiaraziione_di_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_strutture_dati/la_dichiarazione_di_dizionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_strutture_dati/la_dichiarazione_di_insieme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_strutture_dati/la_dichiarazione_di_tupla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_strutture_dati/shallow_nesting_di_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/int_float_complex_str/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/int_float_complex_str/int_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/int_float_complex_str/int_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/int_float_complex_str/int_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/int_float_complex_str/int_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/int_float_complex_str/int_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3564rhkGROP3KNQdcisJYwFxpVg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.__name__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assert_statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bin_oct_hex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bitwise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bool.executor&quot;: &quot;Run&quot;,
+    &quot;Python.brightness_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.configuration_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.custom_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dao_news_db_configuration_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dao_news_db_connection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_class_base.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_class_ereditarietà.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_class_parametri.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_class_tipi_di_variabili.executor&quot;: &quot;Run&quot;,
+    &quot;Python.db_connection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.deep_nesting_di_lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dizionario_builtin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dizionario_builtins.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dizionario_enclosing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dizionario_globals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dizionario_locals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.esercizio_n_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flashing_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.float_tolleranza.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_as_while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_statement_async.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_statement_come_while_statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.forms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.i_metodi_delle_liste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.i_metodi_isalnum_islpha_isdigit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.i_metodi_startwith_endwith.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if_statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_bytearray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_cursore_del_metodo_read.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_dizionario_builtins.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_fattoriale_ricorsivo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_file_binario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_generatore_yield.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_gestore_with_open.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_metodo_close.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_metodo_find.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_metodo_format.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_metodo_join.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_metodo_maketrans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_metodo_read.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_metodo_replace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_metodo_strip.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_metodo_translate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.il_metodo_write.executor&quot;: &quot;Run&quot;,
+    &quot;Python.import_base.executor&quot;: &quot;Run&quot;,
+    &quot;Python.import_from.executor&quot;: &quot;Run&quot;,
+    &quot;Python.import_from_as.executor&quot;: &quot;Run&quot;,
+    &quot;Python.import_from_star.executor&quot;: &quot;Run&quot;,
+    &quot;Python.import_modulo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.int_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.int_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.int_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.int_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.int_float_complex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_dichiaraziione_di_lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_dichiarazione_di_dizionario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_dichiarazione_di_insieme.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_dichiarazione_di_tupla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_abs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_decimal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_dir.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_enumerate().executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_fraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_isclose.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_join.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_open.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_partition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_range().executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_reload_di_ importlib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_reload_di_importlib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_round.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_split.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_funzione_zip().executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_variabile_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.la_variabile_privata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_base.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_chiave_di_una_funzione_di_ordinamento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_in_list_comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_in_list_comprehension_condizionata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_ord.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_simple_condition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_sottofunzione_della_funzione_filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_sottofunzione_della_funzione_map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.le_f_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.le_funzioni_bin_oct_hex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.metodi_operatori_lineari.executor&quot;: &quot;Run&quot;,
+    &quot;Python.models.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modulo_2_package_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modulo_3_package_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mysql_configuration_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mysql_db_connection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.platform_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.raw_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.settings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.setup.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shallow_nesting_di_lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sqrt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sqrt_in_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sqrt_p.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stellar_brightness.executor&quot;: &quot;Run&quot;,
+    &quot;Python.str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.studente_dao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.studente_service.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sys_path.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try_except.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try_except_asterisco.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try_except_statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.urls.executor&quot;: &quot;Run&quot;,
+    &quot;Python.views.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while_statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.yield.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/r.fermanelli/Python/PythonProject/corso_python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\django" />
+      <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\esercizi_livello_avanzato\liste" />
+      <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\esercizi_livello_avanzato" />
+      <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\avanzato\async" />
+      <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\eserciziario\le_strutture_dati_avanzato\le_liste" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="corso_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/i_moduli_e_i_package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/i_moduli_e_i_package/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0978a7220b69-9867c7d4c0a4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.336" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="" />
+      <created>1762417387937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762417387937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".user" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DAO/mysql_db_connection/db_connection.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="matricola" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

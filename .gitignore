@@ -1,0 +1,19 @@
+# File compilati di Python
+__pycache__/
+*.py[cod]
+
+# Ambienti virtuali
+venv/
+.env/
+
+# File temporanei
+*.log
+*.tmp
+
+# Configurazioni locali
+*.env
+
+# File generati da strumenti o build
+build/
+dist/
+*.egg-info/

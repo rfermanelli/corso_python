@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <title>La mia pagina semplice</title>
+</head>
+<body>
+<h1>Benvenuto nella mia pagina!</h1>
+<p>Questa è una pagina dinamica molto semplice.</p>
+<p>Contiene solo gli elementi delle entità Articolo e Giornalista:</p>
+<ul>
+    <li> {{articolo}}</li>
+    <br>
+    <li> {{giornalista}}</li>
+    <br>
+    {% for a in articolo %}
+        <p>
+            <strong>Titolo: {{ a.titolo }}</strong>
+            Testo: {{ a.testo }}
+        </p>
+    {% endfor %}
+</ul>
+</body>
+</html>
+

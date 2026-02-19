@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <title>Pagina di contatto</title>
+    <h1> Pagina di contatto </h1>
+</head>
+<body>
+<!--    <div>-->
+<!--        <form action="">-->
+<!--            {{ form.as_p }}-->
+<!--            <input type="submit" value="invia">-->
+<!--        </form>-->
+<!--    </div>-->
+     <div>
+        <form method="POST">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <input type="submit" value="invia">
+        </form>
+    </div>
+    <table>
+        <tr><td>Nome: </td><td>{{ form.nome}}</td></tr>
+        <tr><td>Cognome: </td><td>{{ form.cognome}}</td></tr>
+        <tr><td>Telefono: </td><td>{{ form.telefono}}</td></tr>
+        <tr><td>Email: </td><td>{{ form.email }}</td></tr>
+        <tr><td>Testo: </td><td>{{ form.testo }}</td></tr>
+    </table>
+</body>
+</html>
+
