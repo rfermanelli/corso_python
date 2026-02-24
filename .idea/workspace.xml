@@ -5,113 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/corso_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cython_in_python/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cython_in_python/sqrt.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cython_in_python/sqrt.pyx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cython_in_python/sqrt_in_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao_news/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao_news/dao_news_db_configuration_file/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao_news/dao_news_db_configuration_file/dao_news_db_configuration_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao_news/dao_news_db_connection/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao_news/dao_news_db_connection/dao_news_db_connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_file/il_metodo_close.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_file/il_metodo_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_file/la_funzione_open.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/import_base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/import_from.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/import_from_as.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/import_from_star.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/la_funzione_dir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/la_funzione_reload_di_importlib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/la_variabile_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/la_variabile_privata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/math_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/package_1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/package_1/modulo_1_package_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/package_1/package_2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/package_1/package_2/modulo_2_package_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/package_1/package_2/package_3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_moduli_e_i_package/package_1/package_2/package_3/modulo_3_package_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/bitwise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/flashing_str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/i_metodi_isalnum_islpha_isdigit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/i_metodi_startwith_endwith.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/i_tipi_int_float_complex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_dizionario_builtins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_dizionario_enclosing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_dizionario_globals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_dizionario_locals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_find.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_join.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_maketrans.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_partition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_replace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_strip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_metodo_translate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_tipo_bool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_tipo_decimal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_tipo_fraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/il_tipo_str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/la_funzione_abs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/la_funzione_isclose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/la_funzione_round.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/le_f_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/le_funzioni_bin_oct_hex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_tipi_e_gli_operatori/le_raw_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/assert_statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/for_statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/for_statement_asincrona.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/for_statement_come_while_statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/if_statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/la_funzione_enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/la_funzione_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/la_funzione_zip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/try_except_statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/il_controllo_del_flusso/while_statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_asincrone/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_generative_yield/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_generative_yield/il_generatore_yield.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_chiave_di_una_funzione_di_ordinamento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_con_parametri_multipli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_in_list_comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_in_list_comprehension_condizionata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_sottofunzione_della_funzione_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_lambda/lambda_sottofunzione_della_funzione_map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_ricorsive/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_ricorsive/il_fattoriale_ricorsivo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_strutture_dati/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_strutture_dati/deep_nesting_di_lista.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_strutture_dati/la_dichiaraziione_di_lista.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_strutture_dati/la_dichiarazione_di_dizionario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_strutture_dati/la_dichiarazione_di_insieme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_strutture_dati/la_dichiarazione_di_tupla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/le_strutture_dati/shallow_nesting_di_lista.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/int_float_complex_str/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/int_float_complex_str/int_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/int_float_complex_str/int_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/int_float_complex_str/int_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/int_float_complex_str/int_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/int_float_complex_str/int_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisi_armonica/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisi_armonica/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisi_sintattica/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisi_sintattica/grammar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisi_sintattica/lexer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisi_sintattica/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisi_sintattica/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisi_sintattica/sw.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i_file/file_di_testo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/i_file/file_di_testo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i_file/il_metodo_write.py" beforeDir="false" afterPath="$PROJECT_DIR$/i_file/il_metodo_write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i_moduli_e_i_package/import_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/i_moduli_e_i_package/import_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t.py" beforeDir="false" afterPath="$PROJECT_DIR$/t.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rfermanelli&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rfermanelli/corso_python.git&quot;,
+    &quot;accountId&quot;: &quot;5ac29824-a03c-4a35-93be-ad1ad8eecdf2&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -140,6 +58,7 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.__name__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analisi_armonica.executor&quot;: &quot;Run&quot;,
     &quot;Python.assert.executor&quot;: &quot;Run&quot;,
     &quot;Python.assert_statement.executor&quot;: &quot;Run&quot;,
     &quot;Python.bin_oct_hex.executor&quot;: &quot;Run&quot;,
@@ -234,6 +153,7 @@
     &quot;Python.lambda_sottofunzione_della_funzione_map.executor&quot;: &quot;Run&quot;,
     &quot;Python.le_f_string.executor&quot;: &quot;Run&quot;,
     &quot;Python.le_funzioni_bin_oct_hex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lexer.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.math_.executor&quot;: &quot;Run&quot;,
     &quot;Python.math_operations.executor&quot;: &quot;Run&quot;,
@@ -245,6 +165,7 @@
     &quot;Python.mysql_db_connection.executor&quot;: &quot;Run&quot;,
     &quot;Python.platform_module.executor&quot;: &quot;Run&quot;,
     &quot;Python.random_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_module.executor&quot;: &quot;Run&quot;,
     &quot;Python.raw_string.executor&quot;: &quot;Run&quot;,
     &quot;Python.settings.executor&quot;: &quot;Run&quot;,
     &quot;Python.setup.executor&quot;: &quot;Run&quot;,
@@ -276,11 +197,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\analisi_armonica" />
+      <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python" />
       <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\django" />
       <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\esercizi_livello_avanzato\liste" />
       <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\esercizi_livello_avanzato" />
-      <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\avanzato\async" />
-      <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\eserciziario\le_strutture_dati_avanzato\le_liste" />
     </key>
   </component>
   <component name="RunManager">
@@ -328,6 +249,15 @@
       <option name="presentableId" value="Default" />
       <updated>1762417387937</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1771497199285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771497199285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
