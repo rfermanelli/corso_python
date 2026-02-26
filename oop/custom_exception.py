@@ -4,18 +4,22 @@ class EmailNonValida(Exception):
     def __init__(self, email, messaggio = "Email non valida!"):
         self.email = email
         self.messaggio = messaggio
-        super().__init__(f"{messaggio}:{email}")
+        super().__init__(f"{messaggio}: {email}")
 
 def verifica_email(email):
     while email:
         if "@" not in email:
             raise EmailNonValida(email)
+        else:
+            return "L'email inserita è valida"
 
 try:
-    email = input("Inserisci una email")
-    verifica_email(email)
+    email = input("Inserisci una email ---> ")
+    verifica = verifica_email(email)
 except EmailNonValida as e:
     print(e)
+else:
+    print(verifica)
 
 
 
