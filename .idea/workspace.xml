@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="..">
-      <change afterPath="$PROJECT_DIR$/oop/ereditarieta_multilivello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/ereditarieta_singola.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/ereditaroeta_multipla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/incapsulamento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/la_definizione_di_classe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/la_definizione_di_oggetto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/metodi_statici.py" afterDir="false" />
+    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/oop/il_method_resolution_order.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/la_oop/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/la_oop/custom_exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/custom_exception.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/la_oop/data_class/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/data_class/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/la_oop/data_class/data_class_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/data_class/data_class_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/la_oop/data_class/data_class_ereditarietà.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/data_class/data_class_ereditarietà.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/la_oop/data_class/data_class_parametri.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/data_class/data_class_parametri.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/la_oop/data_class/data_class_tipi_di_variabili.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/data_class/data_class_tipi_di_variabili.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +91,7 @@
     "Python.il_file_binario.executor": "Run",
     "Python.il_generatore_yield.executor": "Run",
     "Python.il_gestore_with_open.executor": "Run",
+    "Python.il_method_resolution_order.executor": "Run",
     "Python.il_metodo_close.executor": "Run",
     "Python.il_metodo_find.executor": "Run",
     "Python.il_metodo_format.executor": "Run",
@@ -274,14 +262,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771951430403</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="...">
+      <option name="closed" value="true" />
+      <created>1772094567610</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772094567610</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=".user" />
     <MESSAGE value="." />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
