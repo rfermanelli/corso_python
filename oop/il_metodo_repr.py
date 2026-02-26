@@ -22,8 +22,13 @@ class Elettrone:
 
     # Metodo di presentazione dell'oggetto che opera un override del metodo __str__()
     def __repr__(self):
-        return f"\nL'elettrone e ha una velocita di: {self.velocita} chilometri al secondo"
+        return f"L'elettrone e ha una velocita di: {self.velocita} chilometri al secondo"
 
 
 e = Elettrone(2.5e5)
+# Stampa delle informazioni dell'oggetto con il metodo __repr__()
 print(e)
+#
+list_repr = [e]
+# Stampa delle informazioni dell'oggetto con il metodo __repr__() in una lista
+print(list_repr)

@@ -25,6 +25,6 @@ class Elettrone:
         return 1
 
 # Il metodo emissione è eseguibile senza una istanza della classe Elettrone
-print(f"\nL'elettrone emette {Elettrone.emissione()} fotone")
+print(f"\nL'elettrone rilascia energia emettendo {Elettrone.emissione()} fotone")
 
 

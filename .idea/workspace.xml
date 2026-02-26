@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="....">
-      <change afterPath="$PROJECT_DIR$/oop/il_metodo_repr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/il_metodo_str.py" afterDir="false" />
+    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment=".....">
+      <change afterPath="$PROJECT_DIR$/oop/metodi_dunder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/ereditaroeta_multipla.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/ereditarieta_multipla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/data_class/data_class_parametri.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/data_class/data_class_parametri.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/il_metodo_repr.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/il_metodo_repr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/il_metodo_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/il_metodo_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/metodi_statici.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/metodi_statici.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +159,7 @@
     "Python.main.executor": "Run",
     "Python.math_.executor": "Run",
     "Python.math_operations.executor": "Run",
+    "Python.metodi_dunder.executor": "Run",
     "Python.metodi_operatori_lineari.executor": "Run",
     "Python.metodi_statici.executor": "Run",
     "Python.models.executor": "Run",
@@ -282,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772101014940</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".....">
+      <option name="closed" value="true" />
+      <created>1772109362609</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772109362609</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -291,7 +302,8 @@
     <MESSAGE value=".." />
     <MESSAGE value="..." />
     <MESSAGE value="...." />
-    <option name="LAST_COMMIT_MESSAGE" value="...." />
+    <MESSAGE value="....." />
+    <option name="LAST_COMMIT_MESSAGE" value="....." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

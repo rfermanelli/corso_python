@@ -26,4 +26,9 @@ class Elettrone:
 
 
 e = Elettrone(2.5e5)
+# Stampa delle informazioni dell'oggetto con il metodo __str__()
 print(e)
+#
+list_str = [e]
+# Stampa delle informazioni dell'oggetto con il metodo __str__() in una lista
+print(list_str)

@@ -14,7 +14,7 @@ class Configurazione:
     valore: int = 100
 
 c = Configurazione("Alan Ford", 1)
-print(print(f"La stringa di presentazione dell'oggetto c di tipo Config (repr=True) è: {repr(c)}"))
+print(print(f"La stringa di presentazione dell'oggetto c di tipo Configurazione (repr=True) è: {repr(c)}"))
 
 #
 # @dataclass con l'impostazione esplcita di parametri di configurazione: repr=False
@@ -31,7 +31,7 @@ class Config:
     valore: int = 100
 
 c = Config("Bob Rock")
-print(f"La stringa di presentazione dell'oggetto c di tipo Configurazione (repr=False) è: {repr(c)}")
+print(f"La stringa di presentazione dell'oggetto c di tipo Config (repr=False) è: {repr(c)}")
 
 # @dataclass con l'impostazione esplcita di parametri di configurazione aventi diverse configurazioni:
 
