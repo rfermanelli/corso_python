@@ -1,0 +1,16 @@
+{% extends "u_exam_app/base.html" %}
+
+{% block content %}
+
+<h2>{{ title }}</h2>
+
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+
+    <button type="submit" class="btn">
+        Salva
+    </button>
+</form>
+
+{% endblock %}
