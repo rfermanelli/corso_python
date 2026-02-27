@@ -4,103 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="......">
+    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="........">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_avanzato/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_avanzato/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_avanzato/asincronia/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_avanzato/asincronia/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_avanzato/asincronia/esercizio_n_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_avanzato/asincronia/esercizio_n_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_avanzato/dizionari/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_avanzato/dizionari/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_avanzato/insiemi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_avanzato/insiemi/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_avanzato/liste/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_avanzato/liste/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_avanzato/liste/esercizio_n_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_avanzato/liste/esercizio_n_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_avanzato/liste/esercizio_n_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_avanzato/liste/esercizio_n_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_avanzato/liste/esercizio_n_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_avanzato/liste/esercizio_n_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_avanzato/tuple/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_avanzato/tuple/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_base/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_base/complessi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/complessi/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_base/dizionari/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/dizionari/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_base/float/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/float/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_base/insiemi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/insiemi/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_base/interi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/interi/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_base/liste/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/liste/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_base/stringhe/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/stringhe/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gli_esercizi_livello_base/tuple/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/tuple/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/django/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/.idea/django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/django/.idea/django.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/django/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/django/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/django/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/django/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/django/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/django/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/app_di_test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/app_di_test/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/app_di_test/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/app_di_test/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/app_di_test/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/app_di_test/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/app_di_test/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/app_di_test/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/contact_form/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/contact_form/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/contact_form/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/contact_form/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/contact_form/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/contact_form/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/contact_form/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/contact_form/templates/contact_form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/contact_form/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/contact_form/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/contact_form/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/core/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/core/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/core/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/core/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/core/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/core/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/core/templates/articolo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/core/templates/dettaglio_articolo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/core/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/core/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/core/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/dbsqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/news/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/news/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/news/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/news/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/news/migrations/0002_articolo_testo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/news/migrations/0003_delete_giornalista.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/news/migrations/0004_giornalista.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/news/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/news/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/news/templates/news/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/news/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/news/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/quotidiano/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/quotidiano/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/quotidiano/db_router.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/quotidiano/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/quotidiano/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/quotidiano/quotidiano/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/app_1_sito_django/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/app_1_sito_django/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/app_1_sito_django/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/app_1_sito_django/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/app_1_sito_django/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/app_1_sito_django/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/app_1_sito_django/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/app_1_sito_django/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/app_1_sito_django/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/sito_django/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/sito_django/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/sito_django/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/sito_django/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/sito_django/sito_django/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/il_framework_django/t.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/u_exam/u_exam/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/u_exam/u_exam/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -399,7 +305,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772196253743</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=".......">
+      <option name="closed" value="true" />
+      <created>1772205611368</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772205611368</updated>
+    </task>
+    <task id="LOCAL-00009" summary="........">
+      <option name="closed" value="true" />
+      <created>1772205637483</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772205637483</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -410,7 +332,9 @@
     <MESSAGE value="...." />
     <MESSAGE value="....." />
     <MESSAGE value="......" />
-    <option name="LAST_COMMIT_MESSAGE" value="......" />
+    <MESSAGE value="......." />
+    <MESSAGE value="........" />
+    <option name="LAST_COMMIT_MESSAGE" value="........" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
