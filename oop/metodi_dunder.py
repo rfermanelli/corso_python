@@ -3,7 +3,7 @@ class Pianeta:
         self.nome = nome
         self.massa = massa  # kg
 
-    # Rappresentazione utile per debug
+    # Rappresentazione utile per il debug
     def __repr__(self):
         return f"Pianeta(nome='{self.nome}', massa={self.massa})"
 

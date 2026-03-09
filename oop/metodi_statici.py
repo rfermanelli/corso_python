@@ -24,7 +24,9 @@ class Elettrone:
     def emissione():
         return 1
 
+e_1 = Elettrone(1)
+
 # Il metodo emissione è eseguibile senza una istanza della classe Elettrone
 print(f"\nL'elettrone rilascia energia emettendo {Elettrone.emissione()} fotone")
-
-
+# Il metodo emissione è naturalmente eseguibile su una istanza della classe Elettrone
+print(f"\nL'elettrone e_1 rilascia energia emettendo {e_1.emissione()} fotone")
