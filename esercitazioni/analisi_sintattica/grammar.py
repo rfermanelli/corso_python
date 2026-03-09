@@ -1,8 +1,8 @@
-lessico = ["il", "un", "ha", "padawan", "maestro"]
+TERMINALI_LSW = ["il", "un", "ha", "padawan", "maestro"]
 
-categorie_sintattiche = ["ARTICOLO", "SOSTANTIVO", "VERBO", "SOGGETTO", "OGGETTO", "GRUPPO_VERBALE", "FRASE"]
+NON_TERMINALI_LSW = ["ARTICOLO", "SOSTANTIVO", "VERBO", "SOGGETTO", "OGGETTO", "GRUPPO_VERBALE", "FRASE"]
 
-produzioni_sintattiche = {
+produzioni_lsw = {
     "ARTICOLO": ["il", "un"],
     "SOSTANTIVO": ["padawan", "maestro"],
     "VERBO": ["ha"],

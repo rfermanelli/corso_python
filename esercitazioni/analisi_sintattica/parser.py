@@ -1,2 +1,2 @@
-def parser(sequenza_lessicale):
+def parser(token):
     pass
