@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="..................">
+    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="...................">
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_ricorsive/primo_secondo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_ricorsive/somma_naturali.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/classi_e_oggetti/attribuot__dict__.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/attributo__dict__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le_funzioni/le_funzioni_ricorsive/il_fattoriale_ricorsivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/le_funzioni/le_funzioni_ricorsive/fattoriale.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,12 +177,14 @@
     "Python.overriding.executor": "Run",
     "Python.parser.executor": "Run",
     "Python.platform_module.executor": "Run",
+    "Python.primo_secondo.executor": "Run",
     "Python.random_.executor": "Run",
     "Python.random_module.executor": "Run",
     "Python.raw_string.executor": "Run",
     "Python.settings.executor": "Run",
     "Python.setup.executor": "Run",
     "Python.shallow_nesting_di_lista.executor": "Run",
+    "Python.somma_naturali.executor": "Run",
     "Python.sqrt.executor": "Run",
     "Python.sqrt_in_python.executor": "Run",
     "Python.sqrt_p.executor": "Run",
@@ -417,7 +421,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773233092131</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="...................">
+      <option name="closed" value="true" />
+      <created>1773243687784</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1773243687784</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -440,7 +452,8 @@
     <MESSAGE value="................" />
     <MESSAGE value="................." />
     <MESSAGE value=".................." />
-    <option name="LAST_COMMIT_MESSAGE" value=".................." />
+    <MESSAGE value="..................." />
+    <option name="LAST_COMMIT_MESSAGE" value="..................." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
