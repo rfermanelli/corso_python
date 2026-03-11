@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="...............">
-      <change afterPath="$PROJECT_DIR$/oop/attribuot__dict__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/class_secret_life.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/funzione_hasattr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/funzione_isistance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/funzione_issubclass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/data_class/data_class_ereditarietà.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/data_class/data_class_ereditarietà.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/data_class/data_class_parametri.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/data_class/data_class_parametri.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/data_class/data_class_tipi_di_variabili.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/data_class/data_class_tipi_di_variabili.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/il_metodo_repr.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/il_metodo_repr.py" afterDir="false" />
-    </list>
+    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="................" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,11 +209,11 @@
       <recent name="C:\Users\r.fermanelli\Python\python_project\corso_python\.venv" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\r.fermanelli\Python\python_project\corso_python\oop\eccezioni_e_classi" />
       <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\django\u_exam\u_exam_app\templates\u_exam_app" />
       <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\esercitazioni" />
       <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\analisi_armonica" />
       <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python" />
-      <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\django" />
     </key>
   </component>
   <component name="RunManager">
@@ -400,7 +389,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773073935767</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="................">
+      <option name="closed" value="true" />
+      <created>1773228709315</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1773228709316</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -420,7 +417,8 @@
     <MESSAGE value="............." />
     <MESSAGE value=".............." />
     <MESSAGE value="..............." />
-    <option name="LAST_COMMIT_MESSAGE" value="..............." />
+    <MESSAGE value="................" />
+    <option name="LAST_COMMIT_MESSAGE" value="................" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
