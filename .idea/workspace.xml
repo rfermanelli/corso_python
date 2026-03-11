@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="................" />
+    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment=".................">
+      <change afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/attribuot__dict__.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/attribuot__dict__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/class_secret_life.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/class_secret_life.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/eccezioni_e_classi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_eccezioni/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/eccezioni_e_classi/custom_exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_eccezioni/custom_exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ereditarieta_multilivello.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/ereditarieta_multilivello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ereditarieta_multipla.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/ereditarieta_multipla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ereditarieta_singola.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/ereditarieta_singola.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/funzione_hasattr.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/funzione_hasattr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/funzione_isistance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/funzione_isistance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/funzione_issubclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/funzione_issubclass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/il_method_resolution_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/il_method_resolution_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/il_metodo_repr.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/il_metodo_repr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/il_metodo_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/il_metodo_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/incapsulamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/incapsulamento.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/la_definizione_di_classe.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/la_definizione_di_classe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/la_definizione_di_oggetto.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/la_definizione_di_oggetto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/metodi_dunder.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/metodi_dunder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/metodi_statici.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/metodi_statici.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/mro.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/mro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/overriding.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classi_e_oggetti/overriding.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,11 +231,11 @@
       <recent name="C:\Users\r.fermanelli\Python\python_project\corso_python\.venv" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\r.fermanelli\Python\python_project\corso_python\oop\classi_e_oggetti" />
       <recent name="C:\Users\r.fermanelli\Python\python_project\corso_python\oop\eccezioni_e_classi" />
       <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\django\u_exam\u_exam_app\templates\u_exam_app" />
       <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\esercitazioni" />
       <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python\analisi_armonica" />
-      <recent name="C:\Users\r.fermanelli\Python\PythonProject\corso_python" />
     </key>
   </component>
   <component name="RunManager">
@@ -397,7 +419,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773228709316</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary=".................">
+      <option name="closed" value="true" />
+      <created>1773232964475</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1773232964475</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -418,7 +448,8 @@
     <MESSAGE value=".............." />
     <MESSAGE value="..............." />
     <MESSAGE value="................" />
-    <option name="LAST_COMMIT_MESSAGE" value="................" />
+    <MESSAGE value="................." />
+    <option name="LAST_COMMIT_MESSAGE" value="................." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
