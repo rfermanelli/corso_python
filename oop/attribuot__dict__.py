@@ -19,17 +19,7 @@ class Elettrone:
     def accelerazione(self, accelerazione):
         self.velocita = self.velocita + accelerazione
 
+electro = Elettrone(4e10)
 
-    # Metodo di presentazione dell'oggetto che opera un override del metodo __str__()
-    def __repr__(self):
-        return f"L'elettrone e ha una velocita di: {self.velocita} chilometri al secondo"
-
-
-e = Elettrone(2.5e5)
-# Stampa delle informazioni dell'oggetto con il metodo __repr__()
-print(e)
-print(e.__repr__())
-#
-list_repr = [e]
-# Stampa delle informazioni dell'oggetto con il metodo __repr__() in una lista
-print(list_repr)
+print(f"Il dizionario dell'oggetto electro è: {electro.__dict__}")
+print(f"\nIl dizionario della classe Elettrone è: {Elettrone.__dict__}")

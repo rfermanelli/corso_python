@@ -9,7 +9,7 @@ class Veicolo:
 @dataclass
 class Auto(Veicolo):
     numero_porte: int = 4
-    carburante: str = "benzina"
+    alimentazione: str = "benzina"
 
 @dataclass
 class Moto(Veicolo):

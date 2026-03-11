@@ -47,6 +47,7 @@ class PuntoImmutable:
 
 p1 = PuntoOrdinato(1, 2)
 p2 = PuntoOrdinato(3, 4)
-print(p1 < p2)  # True - perché order=True
+print("l'oggetto p1 è minore dell'oggetto p2 (il confronto è possibile poiché order=True):", p1 < p2)  # True - perché order=True
 
-p_imm = PuntoImmutable(5, 6) #p_imm.x = 10  # Errore! frozen=True
+p_imm = PuntoImmutable(5, 6)
+p_imm.x = 10  # Errore! frozen=True
