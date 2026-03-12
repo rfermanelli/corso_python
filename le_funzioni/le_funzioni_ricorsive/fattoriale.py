@@ -1,4 +1,4 @@
-# La funzione fattoriale(n) calcola il fattoriale di n chiamando se stessa.
+# La funzione fattoriale(n) calcola il fattoriale di n, n!
 def fattoriale(n):
     if n < 2:
         return 1
