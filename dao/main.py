@@ -1,6 +1,6 @@
 # Import dei modelli DTO e DAO dello studente, del corso e dell'esame:
-from DAO.dto.studente_dto import StudenteDTO
-from DAO.service.studente_service import StudenteService
+from dao.dto.studente_dto import StudenteDTO
+from dao.service.studente_service import StudenteService
 #
 # La funzione riceve in ingresso il valore della scelta effettuata dall'utente
 # e chiama la funzione DAO corrispondente.
