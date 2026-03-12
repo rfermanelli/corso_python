@@ -10,7 +10,7 @@
 #
 # Struttura pulita:
 #
-# cython_in_python/
+# cython/
 # ├── sqrt.pyx  (sorgente)
 # ├── setup.py  (script di compilazione)
 # ├── sqrt_p.py (eseguibile python)

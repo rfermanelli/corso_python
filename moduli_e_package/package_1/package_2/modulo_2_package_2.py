@@ -1,6 +1,6 @@
 # # L'import che segue è definito in modo nominale,
 #  àossia: dichiarando gli identificatori di tutti i package
-# from i_moduli_e_i_package.package_1.modulo_1_package_1 import f
+# from moduli_e_package.package_1.modulo_1_package_1 import f
 # print(f())
 #
 # # L'import che segue è definito in modo puntuale,
