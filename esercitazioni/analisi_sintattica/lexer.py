@@ -15,12 +15,13 @@ class Lexer:
         for terminal in self.lexicon():
             yield terminal, terminal in TerminalsLsw.terminals
 
+
     def lexer(self):
         syntax = Productions()
         get_nonterminal = lambda terminal: next((nonterminal for nonterminal, terminals in syntax.syntax.items() if terminal in terminals), None)
         for terminal in self.terminals():
             if terminal[1]:
                 nonterminal = get_nonterminal(terminal[0])
-                yield terminal[0], nonterminal.upper()
+                yield terminal[0].upper(), nonterminal.upper()
             else:
-                yield terminal[0], "Lexical error"
+                yield terminal[0].upper(), "Lexical error"

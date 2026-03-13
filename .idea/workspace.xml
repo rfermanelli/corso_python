@@ -4,30 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="..........................">
-      <change afterPath="$PROJECT_DIR$/esercitazioni/analisi_sintattica/analyzer.py" afterDir="false" />
+    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="...........................">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esercitazioni/analisi_sintattica/grammar.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercitazioni/analisi_sintattica/grammar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esercitazioni/analisi_sintattica/lexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercitazioni/analisi_sintattica/lexer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercitazioni/analisi_sintattica/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercitazioni/analisi_sintattica/sw.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercitazioni/analisi_sintattica/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercitazioni/analisi_sintattica/parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercitazioni/analisi_sintattica/sw.txt" beforeDir="false" afterPath="$PROJECT_DIR$/esercitazioni/analisi_sintattica/sw.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/import_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/import_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/import_from.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/import_from.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/import_from_as.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/import_from_as.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/la_funzione_dir.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/la_funzione_dir.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/la_funzione_reload_di_importlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/la_funzione_reload_di_importlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/la_variabile_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/la_variabile_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/la_variabile_privata.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/la_variabile_privata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/math_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/math_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/package_1/modulo_1_package_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/package_1/modulo_1_package_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/package_1/package_2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/package_1/package_2/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/package_1/package_2/modulo_2_package_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/package_1/package_2/modulo_2_package_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/package_1/package_2/package_3/modulo_3_package_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/package_1/package_2/package_3/modulo_3_package_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/random_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/random_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduli_e_package/sys_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduli_e_package/sys_path.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/data_class/data_class_parametri.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/data_class/data_class_parametri.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +38,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -510,11 +490,18 @@
       <option name="project" value="LOCAL" />
       <updated>1773309623209</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="...........................">
+      <option name="closed" value="true" />
+      <created>1773417202211</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1773417202211</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=".." />
     <MESSAGE value="..." />
     <MESSAGE value="...." />
     <MESSAGE value="....." />
@@ -539,7 +526,8 @@
     <MESSAGE value="........................" />
     <MESSAGE value="........................." />
     <MESSAGE value=".........................." />
-    <option name="LAST_COMMIT_MESSAGE" value=".........................." />
+    <MESSAGE value="..........................." />
+    <option name="LAST_COMMIT_MESSAGE" value="..........................." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
