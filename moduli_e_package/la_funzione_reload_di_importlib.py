@@ -13,5 +13,3 @@ while True:
 
     # hot reload del modulo
     importlib.reload(mathop)
-
-

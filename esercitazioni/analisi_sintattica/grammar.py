@@ -1,13 +1,23 @@
-TERMINALI_LSW = ["il", "un", "ha", "padawan", "maestro"]
+from dataclasses import dataclass, field
 
-NON_TERMINALI_LSW = ["ARTICOLO", "SOSTANTIVO", "VERBO", "SOGGETTO", "OGGETTO", "GRUPPO_VERBALE", "FRASE"]
+@dataclass
+class TerminalsLsw:
+    terminals: list[str] = ("IL", "UN", "HA", "MAESTRO", "PADAWAN")
 
-produzioni_lsw = {
-    "ARTICOLO": ["il", "un"],
-    "SOSTANTIVO": ["padawan", "maestro"],
-    "VERBO": ["ha"],
-    "SOGGETTO": ["ARTICOLO", "SOSTANTIVO"],
-    "OGGETTO": ["ARTICOLO", "SOSTANTIVO"],
-    "GRUPPO_VERBALE": ["ha", "OGGETTO"],
-    "FRASE": ["SOGGETTO", "GRUPPO_VERBALE"]
-}
+
+@dataclass
+class NonTerminalsLsw:
+    non_terminals: list[str] = ("<ARTICOLO>", "<SOSTANTIVO>", "<SOGGETTO>", "<OGGETTO>", "<VERBO>", "<GRUPPO_VERBALE>", "<FRASE>")
+
+
+@dataclass
+class Productions:
+    syntax: dict[str, list[str]] = field(default_factory=lambda: {
+        "articolo": ["IL", "UN"],
+        "sostantivo": ["MAESTRO", "PADAWAN"],
+        "verbo": ["HA"],
+        "soggetto": ["ARTICOLO", "SOSTANTIVO"],
+        "oggetto": ["ARTICOLO", "SOSTANTIVO"],
+        "gruppo_verbale": ["VERBO", "OGGETTO"],
+        "frase": ["SOGGETTO", "GRUPPO_VERBALE"]
+    })

@@ -5,4 +5,3 @@ contenuto = dir(m)
 for nome in contenuto:
     if not nome.startswith("__"):
         print(nome)
-

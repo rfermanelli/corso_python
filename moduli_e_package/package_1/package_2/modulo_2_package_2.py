@@ -14,10 +14,8 @@
 # Import della funzione dal modulo del primo livello usando la sintassi con punti
 from ..modulo_1_package_1 import funzione_di_primo_livello
 
+
 def funzione_di_secondo_livello():
     # Chiamata alla funzione del primo livello
     risultato = funzione_di_primo_livello()
     return f"Secondo livello: {risultato}"
-
-
-

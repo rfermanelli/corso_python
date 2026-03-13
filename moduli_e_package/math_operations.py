@@ -2,8 +2,10 @@
 def addizione(a, b):
     return a + b
 
+
 def moltiplicazione(a, b):
     return a * b
+
 
 PI = 3.14159
 VERSIONE = "1.0"
@@ -15,8 +17,3 @@ print(__name__)
 #
 # La variabile che segue è privata:
 __variabile_privata = 42
-
-
-
-
-

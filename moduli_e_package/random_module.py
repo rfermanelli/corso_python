@@ -12,5 +12,3 @@ print(random.sample(range(10), 3))
 carte = ["asso di quadri", "q di cuori", "k di fiori"]
 random.shuffle(carte)
 print(carte)
-
-

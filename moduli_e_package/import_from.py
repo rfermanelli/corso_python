@@ -9,7 +9,3 @@ print(prodotto)  # Output: 8
 
 # Questo causerebbe errore perché PI non è stato importato
 # print(PI)  # NameError: name 'PI' is not defined
-
-
-
-

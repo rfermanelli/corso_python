@@ -1,4 +1,5 @@
 from sys import path
+
 # sys.path: elenco dei percorsi utilizzati da Python per cercare il modulo da compilare in bytecode:
 print("sys.path: elenco dei percorsi utilizzati da Python per cercare il modulo da compilare in bytecode:\n")
 for p in path:
