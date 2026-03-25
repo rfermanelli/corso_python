@@ -1,5 +1,5 @@
-from DAO.dao.studente_dao import StudenteDAO
-from DAO.dto.studente_dto import StudenteDTO
+from dao.dao.studente_dao import StudenteDAO
+from dao.dto.studente_dto import StudenteDTO
 
 class StudenteService:
     @staticmethod
