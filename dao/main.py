@@ -35,12 +35,13 @@ print("Funzione di selezione di uno studente - scelta = S")
 print("Funzione di selezione di tutti gli studenti - scelta = A")
 print("Funzione di uscita dal menù - scelta = E")
 # Scelta dell'utente:
-while True:
-    try:
-        funzione_scelta = input("\nScegli una funzione - scelta = ")
-        assert funzione_scelta in ("I", "U", "D", "S", "A", "E")
-        break
-    except AssertionError:
-        print("Scegliere una delle funzioni del menù")
-#
-print(funzione_di_scelta(funzione_scelta))
+if __name__ == "__main__":
+    while True:
+        try:
+            funzione_scelta = input("\nScegli una funzione - scelta = ")
+            assert funzione_scelta in ("I", "U", "D", "S", "A", "E")
+            break
+        except AssertionError:
+            print("Scegliere una delle funzioni del menù")
+    #
+    print(funzione_di_scelta(funzione_scelta))
