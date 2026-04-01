@@ -1,4 +1,4 @@
-from dao.mysql_db_config.mysql_configuration_file import __mysql_configuration_dict
+from mysql_db_config.mysql_configuration_file import __mysql_configuration_dict
 # import mysql.connector
 from mysql.connector import connect, Error
 

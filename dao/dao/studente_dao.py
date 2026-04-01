@@ -1,5 +1,5 @@
-from dao.mysql_db_connection.mysql_db_connection import connessione_db_mysql
-from dao.dto.studente_dto import StudenteDTO
+from mysql_db_connection.mysql_db_connection import connessione_db_mysql
+from dto.studente_dto import StudenteDTO
 
 class StudenteDAO:
     @staticmethod
