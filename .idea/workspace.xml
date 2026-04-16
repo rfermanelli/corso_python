@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="..............................." />
+    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="................................">
+      <change afterPath="$PROJECT_DIR$/funzioni/funzioni_ricorsive/primo_secondo_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funzioni/funzioni_ricorsive/primo_secondo.py" beforeDir="false" afterPath="$PROJECT_DIR$/funzioni/funzioni_ricorsive/primo_secondo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t.py" beforeDir="false" afterPath="$PROJECT_DIR$/t.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -533,11 +538,18 @@
       <option name="project" value="LOCAL" />
       <updated>1775050296038</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="................................">
+      <option name="closed" value="true" />
+      <created>1775050496325</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1775050496325</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="......." />
     <MESSAGE value="........" />
     <MESSAGE value="........." />
     <MESSAGE value=".........." />
@@ -562,7 +574,8 @@
     <MESSAGE value="............................." />
     <MESSAGE value=".............................." />
     <MESSAGE value="..............................." />
-    <option name="LAST_COMMIT_MESSAGE" value="..............................." />
+    <MESSAGE value="................................" />
+    <option name="LAST_COMMIT_MESSAGE" value="................................" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

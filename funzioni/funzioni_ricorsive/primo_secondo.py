@@ -1,6 +1,6 @@
 """
 Problema
-Dato un insieme a, di dimensione 2^h, h ∈ N, di interi totalmente ordinati,
+Dato un vettore a, di dimensione 2^h, h ∈ N, di interi totalmente ordinati,
 calcolare l’intero più grande e quello immediatamente successivo
 nell'ordine decrescente.
 """
@@ -10,11 +10,11 @@ def primo_secondo(a, n):
             return a[0], a[1]
         else:
             return a[1], a[0]
-    # L'insieme è diviso in due insiemi di uguale dimensione.
+    # a_1 e a_2 sono le due partizioni, aventi stessa dimensione, del vettore a.
     a_1 = a[:(n//2)]
     a_2 = a[n//2:]
     # Le chiamate ricorsive si succedono fintantoché
-    # la dimensione dell'insieme è maggiore di due.
+    # la dimensione dei vettori a_1 e a_2 è maggiore di due.
     p_1, s_1 = primo_secondo(a_1, n//2)
     p_2, s_2 = primo_secondo(a_2, n//2)
     #
