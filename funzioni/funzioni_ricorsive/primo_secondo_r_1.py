@@ -4,7 +4,7 @@ Dato un vettore a, di dimensione 2^h, h ∈ N, di interi totalmente ordinati,
 calcolare l’intero più grande e quello immediatamente successivo
 nell'ordine decrescente.
 """
-def primo_secondo(a, n):
+def primo_secondo_r_1(a, n):
     if n == 2:
         if a[0] > a[1]:
             return a[0], a[1]
@@ -15,8 +15,8 @@ def primo_secondo(a, n):
     a_2 = a[n//2:]
     # Le chiamate ricorsive si succedono fintantoché
     # la dimensione dei vettori a_1 e a_2 è maggiore di due.
-    p_1, s_1 = primo_secondo(a_1, n//2)
-    p_2, s_2 = primo_secondo(a_2, n//2)
+    p_1, s_1 = primo_secondo_r_1(a_1, n//2)
+    p_2, s_2 = primo_secondo_r_1(a_2, n//2)
     #
     if p_1 > p_2:
         p = p_1
