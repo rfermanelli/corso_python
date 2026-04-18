@@ -25,5 +25,5 @@ def primo_secondo_r_2(a, n):
     return p, s
 
 
-p, s = primo_secondo_([9, 3, 4, 2, 1, 5, 8, 6], 8)
+p, s = primo_secondo_r_2([9, 3, 4, 2, 1, 5, 8, 6], 8)
 print(f"Il numero più grande dell'insieme è: {p}, e il successivo in ordine decresente è: {s}")
