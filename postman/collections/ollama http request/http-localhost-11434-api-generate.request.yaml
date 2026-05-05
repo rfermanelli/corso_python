@@ -1,0 +1,14 @@
+$kind: http-request
+name: http://localhost:11434/api/generate
+url: http://localhost:11434/api/generate
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"model\": \"qwen3.5:397b-cloud\",\r
+
+    \  \"prompt\": \"Spiegami brevemente cos'è una porta informatica\"\r
+
+    }\r\n"
+order: 1777384587013

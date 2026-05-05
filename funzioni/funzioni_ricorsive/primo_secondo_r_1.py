@@ -14,7 +14,7 @@ def primo_secondo_r_1(a, n):
     a_1 = a[:(n//2)]
     a_2 = a[n//2:]
     # Le chiamate ricorsive si succedono fintantoché
-    # la dimensione dei vettori a_1 e a_2 è maggiore di due.
+    # la dimensione dei liste a_1 e a_2 è maggiore di due.
     p_1, s_1 = primo_secondo_r_1(a_1, n//2)
     p_2, s_2 = primo_secondo_r_1(a_2, n//2)
     #
