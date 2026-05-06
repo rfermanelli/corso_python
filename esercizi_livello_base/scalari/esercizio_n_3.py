@@ -13,8 +13,8 @@ aggiorni l'intervallo e incrementi un contatore iterazioni
 Si fermi quando l'ampiezza dell'intervallo (b - a) è minore della tolleranza.
 Stampi la radice approssimata, il valore della funzione in quel punto e il numero di iterazioni necessarie.
 Stampi infine se la radice trovata ricade nella metà sinistra o destra dell'intervallo originale.
-
 """
+
 # Definizione della funzione
 def f(x):
     return x**3 - 2*x - 5

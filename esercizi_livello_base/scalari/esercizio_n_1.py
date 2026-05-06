@@ -9,7 +9,6 @@ Calcoli la somma dei due risultati.
 Determini e stampi quante delle 36 combinazioni possibili producono una somma maggiore di 8 (suggerimento: si usino due contatori e due cicli annidati).
 Calcoli e stampi la probabilità (in percentuale) che la somma superi 8, come rapporto tra i casi favorevoli e i 36 casi totali.
 Stampi infine se la coppia di valori inserita dall'utente è un caso favorevole.
-
 """
 
 # Acquisizione e validazione dei lanci

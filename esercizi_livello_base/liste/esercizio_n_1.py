@@ -12,8 +12,8 @@ Calcoli la norma (lunghezza) di ciascun vettore:
 ‖u‖ = √(u[0]² + ... + u[n-1]²)
 ‖v‖ = √(v[0]² + ... + v[n-1]²)
 Stampi il prodotto scalare, le due norme, il numero di componenti concordi e determini se i due liste sono ortogonali oppure no
-
 """
+
 import math
 
 # Acquisizione e validazione della dimensione

@@ -11,8 +11,8 @@ Costruisca la matrice M = [u | v | w] affiancando i tre liste come colonne.
 Calcoli il determinante della matrice 3×3 con la regola di Sarrus, usando un ciclo per i termini positivi e uno per i termini negativi, con un contatore termini_calcolati.
 Conti quante componenti nulle sono presenti complessivamente nei tre liste, tramite un contatore componenti_nulle.
 Stampi il determinante, il numero di componenti nulle e determini se i liste sono linearmente indipendenti (det ≠ 0) oppure linearmente dipendenti (det = 0).
-
 """
+
 # Acquisizione e validazione della dimensione
 n = int(input("Inserisci la dimensione n dei liste (deve essere 3): "))
 

@@ -13,8 +13,8 @@ Simuli il moto secondo per secondo da t = 0 fino a t_max, calcolando ad ogni ist
 h(t) = v0·t - ½·g·t²
 e conti quanti istanti la quota supera h_soglia
 Stampi la quota massima, il tempo per raggiungerla, i secondi trascorsi sopra la soglia e infine se l'oggetto supera o meno la quota soglia
-
 """
+
 import math
 
 g = 9.81  # m/s²
