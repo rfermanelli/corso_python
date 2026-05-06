@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="....................................">
-      <change afterPath="$PROJECT_DIR$/esercizi_livello_base/liste/esercizio_n_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esercizi_livello_base/matrici/esercizio_n_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi_livello_base/liste/esercizio_n_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/liste/esercizio_n_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi_livello_base/matrici/esercizio_n_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/matrici/esercizio_n_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi_livello_base/scalari/esercizio_n_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/scalari/esercizio_n_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi_livello_base/scalari/esercizio_n_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/scalari/esercizio_n_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi_livello_base/scalari/esercizio_n_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/scalari/esercizio_n_3.py" afterDir="false" />
-    </list>
+    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="....................................." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -309,7 +300,7 @@
       <workItem from="1777882990470" duration="1898000" />
       <workItem from="1777904847722" duration="1029000" />
       <workItem from="1777993507234" duration="2621000" />
-      <workItem from="1778056498659" duration="1694000" />
+      <workItem from="1778056498659" duration="2422000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -607,14 +598,21 @@
       <option name="project" value="LOCAL" />
       <updated>1777994871193</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary=".....................................">
+      <option name="closed" value="true" />
+      <created>1778058344017</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1778058344017</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="............" />
     <MESSAGE value="............." />
     <MESSAGE value=".............." />
     <MESSAGE value="..............." />
@@ -639,7 +637,8 @@
     <MESSAGE value=".................................." />
     <MESSAGE value="..................................." />
     <MESSAGE value="...................................." />
-    <option name="LAST_COMMIT_MESSAGE" value="...................................." />
+    <MESSAGE value="....................................." />
+    <option name="LAST_COMMIT_MESSAGE" value="....................................." />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -649,7 +648,7 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/corso_python$esercizio_n_1.coverage" NAME="esercizio_n_1 Coverage Results" MODIFIED="1777994716938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esercizi_livello_base/matrici" />
+    <SUITE FILE_PATH="coverage/corso_python$esercizio_n_1.coverage" NAME="esercizio_n_1 Coverage Results" MODIFIED="1778071308957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esercizi_livello_base/scalari" />
     <SUITE FILE_PATH="coverage/corso_python$esercizio_n_3.coverage" NAME="esercizio_n_3 Coverage Results" MODIFIED="1777993868746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esercizi_livello_base/scalari" />
     <SUITE FILE_PATH="coverage/corso_python$esercizio_n_2.coverage" NAME="esercizio_n_2 Coverage Results" MODIFIED="1778057210677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esercizi_livello_base/liste" />
   </component>

@@ -6,7 +6,7 @@ Acquisisca il risultato del primo lancio (un intero tra 1 e 6).
 Acquisisca il risultato del secondo lancio (un intero tra 1 e 6).
 Verifichi che entrambi i valori siano validi (compresi tra 1 e 6); in caso contrario, segnali un errore e termini.
 Calcoli la somma dei due risultati.
-Determini e stampi quante delle 36 combinazioni possibili producono una somma maggiore di 8 (suggerimento: si usino due contatori e due cicli annidati).
+Determini e stampi il numero di combinazioni (delle 36 combinazioni possibili) che producono una somma maggiore di 8 (suggerimento: si usino due contatori e due cicli annidati).
 Calcoli e stampi la probabilità (in percentuale) che la somma superi 8, come rapporto tra i casi favorevoli e i 36 casi totali.
 Stampi infine se la coppia di valori inserita dall'utente è un caso favorevole.
 """
