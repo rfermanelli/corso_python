@@ -1,14 +1,14 @@
 """
 Esercizio n. 2 - Il sommatore binario a n bit
-Dati due numeri rappresentati come vettori di n bit, si vuole calcolare la somma binaria bit a bit, gestendo il riporto (carry) ad ogni posizione, esattamente come fa un sommatore ripple-carry. Si vuole inoltre contare quante posizioni generano riporto e verificare se la somma produce overflow.
+Dati due numeri rappresentati come vettori di n bit, si vuole calcolare la somma binaria bit a bit, gestendo il riporto (carry) a ogni posizione, esattamente come fa un sommatore ripple-carry. Si vuole inoltre contare quante posizioni generano riporto e verificare se la somma produce overflow.
 Scrivere un algoritmo, rappresentato tramite diagramma di flusso, che:
-Acquisisca la dimensione n (numero di bit, intero positivo).
-Verifichi che n sia valido (maggiore di zero); in caso contrario, segnali un errore e termini.
-Acquisisca i due vettori A e B di n bit ciascuno, verificando che ogni elemento sia 0 oppure 1; in caso contrario, segnali un errore e termini.
-Esegua la somma bit a bit dal bit meno significativo (indice n-1) al più significativo (indice 0), calcolando ad ogni posizione i la somma parziale s = A[i] + B[i] + carry, il bit risultante S[i] = s % 2 e il nuovo riporto carry = s // 2
+Acquisisca in input la dimensione n dei due numeri.
+Verifichi che n sia valido (deve essere maggiore di zero); in caso contrario, segnali in output un errore e termini.
+Acquisisca in input i due vettori A e B di n bit ciascuno, verificando che ogni elemento sia o 0 o 1 (or esclusivo); in caso contrario, segnali in output un errore e termini.
+Esegua la somma bit a bit dal bit meno significativo (indice n-1) al più significativo (indice 0), calcolando a ogni posizione i la somma parziale s = A[i] + B[i] + carry, il bit risultante S[i] = s % 2 e il nuovo riporto carry = s // 2.
 Conti quante posizioni generano un riporto verso la posizione successiva, tramite un contatore posizioni_con_riporto.
 Verifichi se al termine del ciclo il riporto finale è 1 (overflow: la somma non è rappresentabile con n bit).
-Stampi i due vettori in input, il vettore risultante S, il numero di posizioni con riporto e se si è verificato overflow oppure no.
+Stampi in output i due vettori A e B ricevuti in input, il vettore risultante S, il numero di posizioni con riporto e un messaggio che informi se si è verificato overflow oppure no.
 """
 
 # Acquisizione e validazione della dimensione

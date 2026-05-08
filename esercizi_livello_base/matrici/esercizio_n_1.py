@@ -1,16 +1,16 @@
 """
-Esercizio n. 1 - Vettori linearmente indipendneti
-Dati tre liste u, v, w di dimensione n, si vuole determinare se sono linearmente indipendenti verificando se l'unica soluzione del sistema:
+Esercizio n. 1 - Vettori linearmente indipendenti
+Dati tre vettori u, v, w di dimensione n, si vuole determinare se sono linearmente indipendenti verificando se l'unica soluzione della combinazione lineare:
 α·u + β·v + γ·w = 0
-è quella banale α = β = γ = 0. Nel caso di tre liste in ℝ³ (n=3), questo è equivalente a verificare che la matrice 3×3 formata dai tre liste abbia determinante non nullo.
+è quella banale α = β = γ = 0. Nel caso di tre vettori in ℝ³ (n=3), questo è equivalente a verificare che la matrice 3×3 formata dai tre vettori abbia determinante non nullo.
 Scrivere un algoritmo, rappresentato tramite diagramma di flusso, che:
-Acquisisca la dimensione n dei liste (deve essere esattamente 3 per questo metodo).
-Verifichi che n sia valido; in caso contrario, segnali un errore e termini.
-Acquisisca le componenti dei tre liste u, v, w.
-Costruisca la matrice M = [u | v | w] affiancando i tre liste come colonne.
-Calcoli il determinante della matrice 3×3 con la regola di Sarrus, usando un ciclo per i termini positivi e uno per i termini negativi, con un contatore termini_calcolati.
-Conti quante componenti nulle sono presenti complessivamente nei tre liste, tramite un contatore componenti_nulle.
-Stampi il determinante, il numero di componenti nulle e determini se i liste sono linearmente indipendenti (det ≠ 0) oppure linearmente dipendenti (det = 0).
+Acquisisca in input la dimensione n dei vettori.
+Verifichi che la dimensione n sia valida (n = 3); in caso contrario, segnali in output un errore e termini.
+Acquisisca in input le tre componenti dei tre vettori u, v, w.
+Costruisca la matrice M = [u | v | w] affiancando i tre vettori come colonne.
+Calcoli il determinante della matrice 3×3 con il metodo di Sarrus, usando un ciclo per i termini positivi e uno per i termini negativi, con un contatore termini_calcolati.
+Conti quante componenti nulle sono presenti complessivamente nei tre vettori, tramite un contatore componenti_nulle.
+Stampi in output il determinante, il numero di componenti nulle e un messaggio che informa se i vettori sono linearmente indipendenti (det ≠ 0) oppure linearmente dipendenti (det = 0).
 """
 
 # Acquisizione e validazione della dimensione

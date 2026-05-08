@@ -1,17 +1,17 @@
 """
 Esercizio n. 1 - Il prodotto scalare
-Dati due liste u e v di dimensione n, si vuole calcolare il loro prodotto scalare e determinare se i due liste sono ortogonali, ovvero se il prodotto scalare è zero. Si vuole inoltre trovare quante componenti hanno lo stesso segno nei due liste.
+Dati due vettori u e v di dimensione n, si vuole calcolare il loro prodotto scalare e determinare se i due vettori sono ortogonali, ovvero se il prodotto scalare è zero. Si vuole inoltre trovare quante componenti hanno lo stesso segno nei due vettori.
 Scrivere un algoritmo, rappresentato tramite diagramma di flusso, che:
-Acquisisca la dimensione n del vettore (intero positivo).
-Verifichi che n sia valido (maggiore di zero); in caso contrario, segnali un errore e termini.
-Acquisisca le n componenti del vettore u e le n componenti del vettore v.
+Acquisisca in input la dimensione n dei due vettori u e v.
+Verifichi che n sia valido (deve essere maggiore di zero); in caso contrario, segnali in output un errore e termini.
+Acquisisca in input le n componenti del vettore u e le n componenti del vettore v.
 Calcoli il prodotto scalare
 ps = u[0]·v[0] + u[1]·v[1] + ... + u[n-1]·v[n-1]
-Conti quante componenti di indice i che soddisfano la condizione: u[i] e v[i] hanno lo stesso segno (entrambe positive o entrambe negative), usando un contatore concordi.
+Conti le componenti di indice i che soddisfano la condizione: u[i] e v[i] hanno lo stesso segno (entrambe positive o entrambe negative), usando un contatore concordi.
 Calcoli la norma (lunghezza) di ciascun vettore:
 ‖u‖ = √(u[0]² + ... + u[n-1]²)
 ‖v‖ = √(v[0]² + ... + v[n-1]²)
-Stampi il prodotto scalare, le due norme, il numero di componenti concordi e determini se i due liste sono ortogonali oppure no
+Stampi in output il prodotto scalare, le due norme, il numero di componenti concordi e un messaggio che informi se i due vettori sono ortogonali oppure no.
 """
 
 import math

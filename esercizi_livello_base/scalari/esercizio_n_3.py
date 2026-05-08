@@ -3,16 +3,17 @@ Esercizio n. 3 - Il metodo di bisezione
 Si vuole trovare, approssimativamente, uno zero di una funzione continua nell'intervallo [a, b], usando il metodo di bisezione. Si considera la funzione:
 f(x) = x³ - 2x - 5
 Scrivere un algoritmo, rappresentato tramite diagramma di flusso, che:
-Acquisisca gli estremi dell'intervallo a e b (reali).
-Verifichi che i valori siano validi, ovvero che a < b e che f(a) e f(b) abbiano segno opposto (condizione del teorema degli zeri); in caso contrario, segnali un errore e termini.
-Acquisisca la tolleranza tol (es. 0.0001), che deve essere positiva.
+Acquisisca in input gli estremi dell'intervallo a e b (reali).
+Verifichi che i valori siano validi, ovvero che a < b e che f(a) e f(b) abbiano segno opposto (condizione del teorema degli zeri); in caso contrario, segnali in output un errore e termini.
+Acquisisca in input la tolleranza tol (es. 0.0001).
+Verifichi che la tolleranza sia valida (deve essere positiva) in caso contrario, segnali in output un errore e termini.
 Applichi il metodo di bisezione: ad ogni iterazione calcoli il punto medio:
- m = (a + b) / 2
+m = (a + b) / 2
 valuti f(m)
 aggiorni l'intervallo e incrementi un contatore iterazioni
 Si fermi quando l'ampiezza dell'intervallo (b - a) è minore della tolleranza.
-Stampi la radice approssimata, il valore della funzione in quel punto e il numero di iterazioni necessarie.
-Stampi infine se la radice trovata ricade nella metà sinistra o destra dell'intervallo originale.
+Stampi in output la radice approssimata, il valore della funzione in quel punto e il numero di iterazioni necessarie.
+Stampi infine in output un messaggio che informi se la radice trovata ricade nella metà sinistra o nella metà destra dell'intervallo originale.
 """
 
 # Definizione della funzione
