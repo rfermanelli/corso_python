@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment="......................................">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi_livello_base/liste/esercizio_n_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/liste/esercizio_n_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi_livello_base/liste/esercizio_n_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/liste/esercizio_n_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi_livello_base/matrici/esercizio_n_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/matrici/esercizio_n_1.py" afterDir="false" />
+    <list default="true" id="10417c02-c122-46a9-b2f8-a10f4f140df3" name="Changes" comment=".......................................">
       <change beforePath="$PROJECT_DIR$/esercizi_livello_base/matrici/esercizio_n_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/matrici/esercizio_n_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi_livello_base/scalari/esercizio_n_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/scalari/esercizio_n_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi_livello_base/scalari/esercizio_n_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/scalari/esercizio_n_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi_livello_base/scalari/esercizio_n_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi_livello_base/scalari/esercizio_n_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,7 +304,7 @@
       <workItem from="1777993507234" duration="2621000" />
       <workItem from="1778056498659" duration="3408000" />
       <workItem from="1778155372110" duration="657000" />
-      <workItem from="1778225540299" duration="2056000" />
+      <workItem from="1778225540299" duration="2736000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -625,14 +618,21 @@
       <option name="project" value="LOCAL" />
       <updated>1778071557188</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary=".......................................">
+      <option name="closed" value="true" />
+      <created>1778236254082</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1778236254082</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=".............." />
     <MESSAGE value="..............." />
     <MESSAGE value="................" />
     <MESSAGE value="................." />
@@ -657,7 +657,8 @@
     <MESSAGE value="...................................." />
     <MESSAGE value="....................................." />
     <MESSAGE value="......................................" />
-    <option name="LAST_COMMIT_MESSAGE" value="......................................" />
+    <MESSAGE value="......................................." />
+    <option name="LAST_COMMIT_MESSAGE" value="......................................." />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

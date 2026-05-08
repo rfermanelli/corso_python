@@ -5,8 +5,8 @@ f(A, B, C) = (A AND B) OR (NOT A AND C)
 Scrivere un algoritmo, rappresentato tramite diagramma di flusso, che:
 Acquisisca in input il numero n di ingressi.
 Verifichi che n sia valido (deve essere esattamente 3 per questa funzione); in caso contrario, segnali in output un errore e termini.
-Costruisca la matrice della tabella della verità T di dimensione 2ⁿ × (n+1), dove le prime n colonne contengono tutte le combinazioni di ingresso e l'ultima colonna contiene il valore dell'uscita f.
-Riempia la matrice riga per riga usando un ciclo sulle 2ⁿ combinazioni, estraendo ogni bit con le operazioni (riga >> (n-1-j)) & 1 e calcolando l'uscita.
+Costruisca la matrice della tabella della verità T di dimensione 2ⁿ × (n+1), dove le prime n colonne contengono tutte le combinazioni (ABC) di ingresso e l'ultima colonna contiene il valore dell'uscita f(A, B, C).
+Riempia la matrice riga per riga usando un ciclo sulle 2ⁿ combinazioni, estraendo ogni bit con le operazioni (i >> (n-1-j)) & 1 e calcolando l'uscita (i e j sono gli indici di riga e di colonna della matrice formata dalle 2ⁿ combinazioni).
 Conti, tramite un contatore uno_in_uscita, quante righe producono in uscita 1 (mintermine) e con un contatore zero_in_uscita quante righe producono in uscita 0 (maxtermine).
 Stampi in output la matrice completa, il numero di mintermini e il numero di maxtermini.
 """
